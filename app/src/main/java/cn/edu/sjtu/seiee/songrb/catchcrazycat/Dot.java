@@ -1,4 +1,4 @@
-package cn.edu.sjtu.seiee.songrb.catchcrazycat;
+package com.edu.andysky.catchcrazycat;
 
 
 
